@@ -1,0 +1,8 @@
+#drawingCanvas{
+    border: 2pt solid #000;
+    cursor: crosshair;
+}
+
+#controls{
+    margin-bottom: 10px;
+}
